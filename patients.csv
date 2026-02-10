@@ -1,0 +1,201 @@
+patient_id,full_name,gender,date_of_birth,phone,email
+P001,Lerato Dlamini,M,1978-11-03,0839876543,example@gmail.com
+P002,Sipho Ndlovu,M,1988-09-18,0821234567,
+P003,,M,1985-04-12,0821234567,example@gmail.com
+P004,Ayesha Khan,,1988-09-18,0821234567,
+P005,Ayesha Khan,,1990-02-30,0839876543,
+P006,John Smith,M,1992/07/25,,
+P007,John Smith,F,1992/07/25,,example@gmail.com
+P008,Lerato Dlamini,Female,1985-04-12,,
+P009,John Smith,M,1990-02-30,0821234567,
+P010,Lerato Dlamini,,1978-11-03,,
+P011,Ayesha Khan,M,1985-04-12,0839876543,
+P012,Lerato Dlamini,F,1985-04-12,,
+P013,  Michael  Brown ,Male,1992/07/25,,
+P014,Ayesha Khan,Male,1985-04-12,0839876543,
+P015,Ayesha Khan,F,1990-02-30,,
+P016,Ayesha Khan,Male,1985-04-12,0839876543,example@gmail.com
+P017,Nomsa Khumalo,Female,1978-11-03,0821234567,example@gmail.com
+P018,Nomsa Khumalo,F,1990-02-30,,
+P019,  Michael  Brown ,F,1978-11-03,0839876543,example@gmail.com
+P020,John Smith,,1990-02-30,,
+P021,Ayesha Khan,F,1988-09-18,,example@gmail.com
+P022,Thabo Mokoena,M,1992/07/25,0839876543,
+P023,,,1985-04-12,,
+P024,  Michael  Brown ,,1978-11-03,0821234567,
+P025,Lerato Dlamini,,1978-11-03,,example@gmail.com
+P026,John Smith,Female,1992/07/25,,example@gmail.com
+P027,John Smith,,1992/07/25,0821234567,
+P028,John Smith,,1988-09-18,0839876543,example@gmail.com
+P029,Nomsa Khumalo,F,1988-09-18,0821234567,
+P030,Nomsa Khumalo,Female,1985-04-12,0821234567,
+P031,John Smith,F,1985-04-12,0839876543,
+P032,Lerato Dlamini,M,1990-02-30,0821234567,
+P033,Sipho Ndlovu,F,1990-02-30,0839876543,
+P034,,F,1988-09-18,0839876543,
+P035,John Smith,Female,1978-11-03,,
+P036,  Michael  Brown ,M,1992/07/25,0839876543,example@gmail.com
+P037,Nomsa Khumalo,M,1988-09-18,0839876543,
+P038,Ayesha Khan,M,1985-04-12,0821234567,example@gmail.com
+P039,Lerato Dlamini,M,1978-11-03,0821234567,
+P040,Ayesha Khan,Male,1990-02-30,0839876543,
+P041,Sipho Ndlovu,,1988-09-18,,example@gmail.com
+P042,  Michael  Brown ,Female,1992/07/25,0821234567,example@gmail.com
+P043,,Male,1990-02-30,,
+P044,Thabo Mokoena,M,1985-04-12,,
+P045,Nomsa Khumalo,M,1992/07/25,0839876543,example@gmail.com
+P046,  Michael  Brown ,F,1990-02-30,0839876543,
+P047,  Michael  Brown ,F,1985-04-12,,
+P048,Lerato Dlamini,M,1988-09-18,0821234567,example@gmail.com
+P049,Ayesha Khan,F,1990-02-30,,
+P050,Ayesha Khan,Female,1985-04-12,0839876543,
+P051,Thabo Mokoena,Female,1978-11-03,,
+P052,,,1990-02-30,0839876543,example@gmail.com
+P053,John Smith,F,1985-04-12,0821234567,
+P054,Nomsa Khumalo,M,1985-04-12,,
+P055,Sipho Ndlovu,M,1988-09-18,0821234567,example@gmail.com
+P056,Lerato Dlamini,,1985-04-12,0839876543,
+P057,Lerato Dlamini,,1992/07/25,0821234567,
+P058,Lerato Dlamini,Female,1988-09-18,,
+P059,Ayesha Khan,Male,1992/07/25,,
+P060,Sipho Ndlovu,Male,1990-02-30,,example@gmail.com
+P061,Thabo Mokoena,Female,1988-09-18,0821234567,example@gmail.com
+P062,Ayesha Khan,,1978-11-03,0839876543,
+P063,Lerato Dlamini,F,1978-11-03,,example@gmail.com
+P064,  Michael  Brown ,,1978-11-03,0821234567,
+P065,John Smith,M,1992/07/25,,example@gmail.com
+P066,Lerato Dlamini,,1992/07/25,,
+P067,Ayesha Khan,Male,1992/07/25,,
+P068,  Michael  Brown ,Male,1985-04-12,0821234567,
+P069,,Male,1985-04-12,0821234567,
+P070,Sipho Ndlovu,Male,1992/07/25,,
+P071,,,1985-04-12,0821234567,example@gmail.com
+P072,Sipho Ndlovu,,1985-04-12,,
+P073,Sipho Ndlovu,Female,1992/07/25,0821234567,
+P074,Nomsa Khumalo,M,1978-11-03,0839876543,
+P075,Ayesha Khan,M,1978-11-03,,
+P076,Sipho Ndlovu,F,1992/07/25,0839876543,
+P077,Thabo Mokoena,F,1978-11-03,,
+P078,Ayesha Khan,Male,1992/07/25,0821234567,
+P079,Thabo Mokoena,Female,1992/07/25,0839876543,
+P080,Nomsa Khumalo,Male,1992/07/25,0839876543,example@gmail.com
+P081,Ayesha Khan,Female,1978-11-03,,example@gmail.com
+P082,John Smith,Male,1988-09-18,,
+P083,Nomsa Khumalo,M,1985-04-12,,example@gmail.com
+P084,John Smith,M,1985-04-12,,
+P085,Nomsa Khumalo,Female,1988-09-18,0821234567,
+P086,Ayesha Khan,Male,1985-04-12,,example@gmail.com
+P087,Ayesha Khan,Male,1990-02-30,0821234567,
+P088,Nomsa Khumalo,,1978-11-03,0821234567,
+P089,John Smith,,1978-11-03,,
+P090,,Male,1988-09-18,0839876543,example@gmail.com
+P091,,Female,1992/07/25,,
+P092,Thabo Mokoena,Male,1978-11-03,0839876543,
+P093,Nomsa Khumalo,Female,1990-02-30,,
+P094,Ayesha Khan,,1990-02-30,0839876543,
+P095,Lerato Dlamini,Male,1988-09-18,,example@gmail.com
+P096,Ayesha Khan,Male,1992/07/25,0839876543,example@gmail.com
+P097,Thabo Mokoena,M,1992/07/25,,
+P098,Lerato Dlamini,Female,1990-02-30,0839876543,
+P099,,Female,1990-02-30,0839876543,example@gmail.com
+P100,Thabo Mokoena,M,1990-02-30,0839876543,example@gmail.com
+P101,  Michael  Brown ,M,1988-09-18,0839876543,example@gmail.com
+P102,  Michael  Brown ,F,1990-02-30,,
+P103,,,1990-02-30,0839876543,
+P104,  Michael  Brown ,Female,1978-11-03,0839876543,
+P105,John Smith,,1990-02-30,0839876543,
+P106,  Michael  Brown ,M,1978-11-03,0839876543,
+P107,Nomsa Khumalo,Male,1988-09-18,0821234567,example@gmail.com
+P108,Sipho Ndlovu,F,1990-02-30,0839876543,
+P109,Ayesha Khan,M,1990-02-30,,
+P110,  Michael  Brown ,Female,1985-04-12,0839876543,
+P111,,,1985-04-12,,
+P112,Thabo Mokoena,Male,1978-11-03,,
+P113,Ayesha Khan,Female,1992/07/25,,
+P114,  Michael  Brown ,M,1990-02-30,,
+P115,,F,1990-02-30,0839876543,
+P116,Thabo Mokoena,Female,1988-09-18,0821234567,example@gmail.com
+P117,,F,1990-02-30,0839876543,example@gmail.com
+P118,John Smith,Female,1978-11-03,0839876543,
+P119,Nomsa Khumalo,Male,1990-02-30,,
+P120,John Smith,M,1990-02-30,0821234567,
+P121,Thabo Mokoena,Male,1992/07/25,0821234567,
+P122,Thabo Mokoena,M,1992/07/25,0839876543,example@gmail.com
+P123,Sipho Ndlovu,F,1992/07/25,,
+P124,Lerato Dlamini,,1992/07/25,,
+P125,John Smith,Male,1992/07/25,0821234567,example@gmail.com
+P126,John Smith,M,1988-09-18,0821234567,
+P127,,Female,1992/07/25,0821234567,
+P128,Ayesha Khan,M,1978-11-03,0821234567,
+P129,Thabo Mokoena,Male,1988-09-18,,
+P130,Nomsa Khumalo,M,1988-09-18,,example@gmail.com
+P131,,Female,1985-04-12,,
+P132,  Michael  Brown ,F,1990-02-30,0839876543,
+P133,John Smith,,1988-09-18,,
+P134,,,1978-11-03,,example@gmail.com
+P135,Lerato Dlamini,Male,1990-02-30,0839876543,
+P136,,Male,1985-04-12,,
+P137,Sipho Ndlovu,Female,1992/07/25,,
+P138,Nomsa Khumalo,Male,1988-09-18,,
+P139,Thabo Mokoena,,1992/07/25,0821234567,example@gmail.com
+P140,,Female,1988-09-18,0839876543,
+P141,  Michael  Brown ,Female,1990-02-30,0821234567,example@gmail.com
+P142,John Smith,F,1990-02-30,0839876543,
+P143,Nomsa Khumalo,Female,1988-09-18,,
+P144,Nomsa Khumalo,Male,1990-02-30,,
+P145,John Smith,F,1985-04-12,0839876543,
+P146,Lerato Dlamini,,1992/07/25,0839876543,example@gmail.com
+P147,  Michael  Brown ,Male,1988-09-18,,example@gmail.com
+P148,Ayesha Khan,Male,1992/07/25,,example@gmail.com
+P149,John Smith,M,1988-09-18,0839876543,
+P150,Thabo Mokoena,M,1988-09-18,,
+P151,Sipho Ndlovu,Female,1985-04-12,0821234567,
+P152,John Smith,Female,1990-02-30,,
+P153,Sipho Ndlovu,M,1978-11-03,,example@gmail.com
+P154,Lerato Dlamini,Female,1990-02-30,0821234567,
+P155,Thabo Mokoena,F,1992/07/25,,example@gmail.com
+P156,Ayesha Khan,M,1988-09-18,,
+P157,Ayesha Khan,,1990-02-30,,
+P158,John Smith,,1990-02-30,,
+P159,Thabo Mokoena,,1985-04-12,0839876543,
+P160,Ayesha Khan,Male,1985-04-12,0839876543,example@gmail.com
+P161,Sipho Ndlovu,,1985-04-12,0839876543,example@gmail.com
+P162,,Female,1988-09-18,,
+P163,Thabo Mokoena,F,1978-11-03,,
+P164,  Michael  Brown ,M,1992/07/25,,
+P165,Ayesha Khan,Female,1985-04-12,0839876543,
+P166,Sipho Ndlovu,Male,1992/07/25,0821234567,example@gmail.com
+P167,Sipho Ndlovu,Male,1988-09-18,,
+P168,Lerato Dlamini,Female,1978-11-03,,
+P169,  Michael  Brown ,Female,1985-04-12,0821234567,
+P170,Nomsa Khumalo,,1978-11-03,0821234567,example@gmail.com
+P171,Ayesha Khan,,1988-09-18,0821234567,
+P172,John Smith,,1985-04-12,0839876543,
+P173,  Michael  Brown ,Male,1992/07/25,,
+P174,  Michael  Brown ,M,1990-02-30,,
+P175,Nomsa Khumalo,Male,1985-04-12,0839876543,
+P176,,Female,1978-11-03,,
+P177,Thabo Mokoena,Female,1985-04-12,,
+P178,Nomsa Khumalo,M,1990-02-30,0821234567,
+P179,  Michael  Brown ,Female,1985-04-12,0839876543,
+P180,Nomsa Khumalo,,1990-02-30,,example@gmail.com
+P181,Ayesha Khan,Male,1988-09-18,0839876543,
+P182,  Michael  Brown ,Female,1985-04-12,0821234567,
+P183,Ayesha Khan,F,1978-11-03,0821234567,
+P184,,M,1992/07/25,0821234567,
+P185,Lerato Dlamini,F,1990-02-30,,
+P186,John Smith,Female,1990-02-30,,example@gmail.com
+P187,  Michael  Brown ,,1992/07/25,,example@gmail.com
+P188,Sipho Ndlovu,M,1978-11-03,,
+P189,John Smith,M,1978-11-03,,
+P190,  Michael  Brown ,F,1990-02-30,,
+P191,Nomsa Khumalo,,1988-09-18,,
+P192,Nomsa Khumalo,F,1992/07/25,,example@gmail.com
+P193,,M,1978-11-03,,
+P194,,Female,1992/07/25,,example@gmail.com
+P195,Sipho Ndlovu,,1988-09-18,,example@gmail.com
+P196,  Michael  Brown ,M,1988-09-18,,example@gmail.com
+P197,Sipho Ndlovu,Female,1992/07/25,0821234567,
+P198,John Smith,Male,1988-09-18,,
+P199,Lerato Dlamini,Male,1988-09-18,,
+P200,  Michael  Brown ,,1985-04-12,0821234567,example@gmail.com
