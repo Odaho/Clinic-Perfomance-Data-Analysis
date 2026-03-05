@@ -77,8 +77,7 @@ The <strong>Healthcare KPI Performance Analytics System</strong> centralizes cli
 <h1 align="center">Patient Volume & Demand Trends</h1>
 
 <div align="center">
-  <!-- INSERT: Monthly Patient Visits Line Chart -->
-  <img width="900" src="YOUR_PATIENT_VISITS_LINE_CHART_LINK_HERE" />
+  <img width="900" src="Images/Visits.png" />
 </div>
 
 <br>
