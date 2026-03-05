@@ -36,7 +36,7 @@ The <strong>Healthcare KPI Performance Analytics System</strong> centralizes cli
 <h1 align="center">Executive Dashboard Overview</h1>
 
 <div align="center">
-  <img width="600" src="Images/KPI's.png" />
+  <img width="450" src="Images/KPI's.png" />
 </div>
 
 <br>
